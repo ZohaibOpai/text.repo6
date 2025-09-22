@@ -1,55 +1,73 @@
-text.repo6
+🚀 text.repo6 – My New Project
 
-🚀 text.repo6 is a practice repository created to improve my skills in HTML and CSS during my web development journey at SMIT (Saylani Mass IT Training).
+This is my new project in my Web Development journey at SMIT (Saylani Mass IT Training).
+The project is built using HTML & CSS, focusing on practicing layouts, styling, and clean code writing.
 
-📖 Project Overview
+📚 Project Overview
 
-This repository contains a simple project that helps me practice the fundamentals of:
+🏗️ Structured with HTML5 for content and layout
 
-Writing semantic HTML structure
+🎨 Styled with CSS3 for design and formatting
 
-Applying CSS styling for design and layout
+📱 Practicing step by step to prepare for responsive design
 
-Organizing files properly in GitHub
+✨ Improving coding style and project organization
 
-✨ Features
+📖 Extended Description
 
-Beginner-friendly code
+This project was created as part of my continuous practice in HTML and CSS.
+I worked on building a simple yet clean design to strengthen my basics.
 
-Clear project structure
+With this project, I improved in:
 
-CSS-based styling for a neat presentation
+✅ Writing semantic and well-structured HTML
 
-Step-by-step progress toward professional web development
+✅ Using CSS for layout, colors, and typography
+
+✅ Keeping my code clean and professional
+
+✅ Preparing myself for bigger and more advanced projects in the future
+
+In the future, I plan to enhance this project by adding:
+
+Responsive design for different screen sizes
+
+JavaScript functionality for interactivity
+
+Animations to make it more visually appealing
+
+🛠️ Technologies Used
+
+HTML5
+
+CSS3
 
 🌍 Live Demo
 
-🔗 View on Netlify
+🔗 GitHub Repo: Click Here *(https://lnkd.in/eQW3_fZ6)*
 
-💻 Repository
+🔗 Netlify Live Link: Click Here *(https://lnkd.in/eSDuzpJp)*
 
-🔗 View on GitHub
+📸 Project Preview
 
-📚 Learning Outcomes
+*(https://1drv.ms/i/c/8284a6b109cb516d/EcGysFBtogRGrJFn3cS-cMEBABHqdPwVxxycSvy6tQvsMg?e=OIZi6a)*
 
-Through this project, I learned how to:
+📈 Future Improvements
 
-Use GitHub repositories to manage projects
+Add JavaScript for interactivity
 
-Keep my code clean and organized
+Make the project fully responsive
 
-Share my work with others professionally
+Improve design with CSS animations
 
-📌 Next Steps
+✨ Author
 
-Add more styling with advanced CSS techniques
+👤 Zohaib
 
-Make the project responsive for different devices
+📚 Matric Student | Hafiz-e-Quran
 
-Introduce interactivity with JavaScript
+💻 Web Development Student at SMIT
 
-👨‍💻 Author
+🌍 From Pakistan
 
-Developed by Zohaib as part of my Web Development training at SMIT.
-
-✨ This repository marks another important step in my journey to becoming a professional web developer.
+⭐️ “Every project I complete takes me one step closer to becoming a professional web developer.”
