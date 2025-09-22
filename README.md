@@ -44,7 +44,7 @@ CSS3
 
 🌍 Live Demo
 
-🔗 GitHub Repo: Click Here *(https://lnkd.in/eQW3_fZ6)*
+🔗 GitHub Repo: Click Here *(https://github.com/ZohaibOpai/text.repo6.git)*
 
 🔗 Netlify Live Link: Click Here *(https://beamish-narwhal-3d9949.netlify.app/)*
 
