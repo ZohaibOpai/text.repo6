@@ -46,7 +46,7 @@ CSS3
 
 🔗 GitHub Repo: Click Here *(https://lnkd.in/eQW3_fZ6)*
 
-🔗 Netlify Live Link: Click Here *(https://lnkd.in/eSDuzpJp)*
+🔗 Netlify Live Link: Click Here *(https://beamish-narwhal-3d9949.netlify.app/)*
 
 📸 Project Preview
 
